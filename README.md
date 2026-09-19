@@ -21,7 +21,7 @@ An end-to-end deep learning–based system for **Arabic Braille detection, recog
 ---
 
 ## 📊 Performance
-- **Accuracy:** 95.76%  
+- **Character Recognition Accuracy:** 95.76%  
 - **GPU:** ~25 FPS (real-time)  
 - **CPU:** ~2 FPS (offline)  
 
