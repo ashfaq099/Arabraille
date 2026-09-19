@@ -46,4 +46,4 @@ An end-to-end deep learning–based system for **Arabic Braille detection, recog
 ## 📌 Note
 
 This work was presented at the **28th International Conference on Computer and Information Technology (ICCIT 2025)**.  
-The source code is currently **private**, and the **full implementation will be released after the official publication**.
+
