@@ -30,6 +30,7 @@ An end-to-end deep learning–based system for **Arabic Braille detection, recog
 ## 🗂️ Dataset
 - Extended Arabic Braille Grade-1 dataset  
 - **45 balanced classes** including diacritics & ligatures  
+- The extended dataset can be found [here](https://www.kaggle.com/datasets/ashfaq099/arabic-braille-dataset-extended)
 
 ---
 
