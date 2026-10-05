@@ -1,4 +1,4 @@
-# AraBrailleNet - An End-to-End Arabic Braille Recognition System
+# A Comprehensive System for Arabic Braille Interpretation
 
 An end-to-end deep learning–based system for **Arabic Braille detection, recognition, and sentence reconstruction**, designed to support accessible reading for visually impaired users.  
 
@@ -30,7 +30,7 @@ An end-to-end deep learning–based system for **Arabic Braille detection, recog
 ## 🗂️ Dataset
 - Extended Arabic Braille Grade-1 dataset  
 - **45 balanced classes** including diacritics & ligatures  
-- The extended dataset can be found [here](https://www.kaggle.com/datasets/ashfaq099/arabic-braille-dataset-extended)
+- The extended dataset can be found [Kaggle dataset](https://www.kaggle.com/datasets/ashfaq099/arabic-braille-dataset-extended)
 
 ---
 
@@ -44,7 +44,23 @@ An end-to-end deep learning–based system for **Arabic Braille detection, recog
 
 ---
 
-## 📌 Note
+## 📖 Citation
 
-This work was presented at the **28th International Conference on Computer and Information Technology (ICCIT 2025)**.  
+If you use this code, dataset, or results in your work, please cite our paper:
 
+**A. Rahman and M. S. Sadi**, "A Comprehensive System for Arabic Braille Interpretation," *2025 28th International Conference on Computer and Information Technology (ICCIT)*, Cox's Bazar, Bangladesh, 2025, pp. 2992–2997. [doi: 10.1109/ICCIT68739.2025.11491613](https://doi.org/10.1109/ICCIT68739.2025.11491613)
+
+**BibTeX**
+
+```bibtex
+@inproceedings{rahman2025arabraillenet,
+  author    = {Rahman, Ashfaqur and Sadi, Muhammad Sheikh},
+  title     = {A Comprehensive System for Arabic Braille Interpretation},
+  booktitle = {2025 28th International Conference on Computer and Information Technology (ICCIT)},
+  address   = {Cox's Bazar, Bangladesh},
+  year      = {2025},
+  pages     = {2992--2997},
+  publisher = {IEEE},
+  doi       = {10.1109/ICCIT68739.2025.11491613}
+}
+```
